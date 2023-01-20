@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/dao/CollegeDAO.java=UTF-8
+encoding//src/dao/MajorDAO.java=UTF-8
+encoding//src/dao/RelationDAO.java=UTF-8
+encoding//src/dao/UserDAO.java=UTF-8
+encoding//src/entity/Essay.java=UTF-8
